@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Laboratorio2
+namespace SupermarketLab
 {
     internal class Supermarket
     {

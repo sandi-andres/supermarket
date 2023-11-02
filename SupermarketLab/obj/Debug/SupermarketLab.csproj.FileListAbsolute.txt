@@ -31,3 +31,14 @@ C:\Users\PC\Desktop\Progra\projects-main\SupermarketLab\obj\Debug\SupermarketLab
 C:\Users\PC\Desktop\Progra\projects-main\SupermarketLab\obj\Debug\SupermarketLab.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\Progra\projects-main\SupermarketLab\obj\Debug\SupermarketLab.exe
 C:\Users\PC\Desktop\Progra\projects-main\SupermarketLab\obj\Debug\SupermarketLab.pdb
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\bin\Debug\SupermarketLab.exe.config
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\bin\Debug\SupermarketLab.exe
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\bin\Debug\SupermarketLab.pdb
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\obj\Debug\SupermarketLab.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\obj\Debug\SupermarketLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\obj\Debug\SupermarketLab.Properties.Resources.resources
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\obj\Debug\SupermarketLab.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\obj\Debug\SupermarketLab.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\obj\Debug\SupermarketLab.exe
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\obj\Debug\SupermarketLab.pdb
+C:\Users\PC\Desktop\Progra\supermarket-main\SupermarketLab\obj\Debug\SupermarketLab.Form1.resources

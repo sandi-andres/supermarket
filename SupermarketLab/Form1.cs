@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Laboratorio2
+namespace SupermarketLab
 {
     public partial class Form1 : Form
     {

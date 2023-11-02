@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Laboratorio2
+namespace SupermarketLab
 {
     internal static class Program
     {

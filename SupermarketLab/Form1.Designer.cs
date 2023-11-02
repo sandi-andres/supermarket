@@ -1,4 +1,4 @@
-﻿namespace Laboratorio2
+﻿namespace SupermarketLab
 {
     partial class Form1
     {
